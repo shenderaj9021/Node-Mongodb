@@ -1,5 +1,5 @@
 # Node-Mongodb
-- Basic code for Connections node app with mongodb withour usign mongoose.
+- Basic code for Connections node app with mongodb withour using mongoose.
 - It will acess your local Mongodb database
 
 - Instructions -
